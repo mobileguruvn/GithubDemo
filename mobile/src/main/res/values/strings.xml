@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHub</string>
+
+    <string name="user_list_title">Github Users</string>
+    <string name="user_detail_title">User Details</string>
+    <string name="back_button_description">Back Button</string>
+    <string name="label_follower">Follower</string>
+    <string name="text_blog">Blog</string>
+    <string name="label_following">Following</string>
+</resources>
